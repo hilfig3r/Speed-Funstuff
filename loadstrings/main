@@ -6,3 +6,5 @@ Low GFX: loadstring(game:HttpGet("https://raw.githubusercontent.com/hilfig3r/Spe
 The Flash: loadstring(game:HttpGet("https://raw.githubusercontent.com/hilfig3r/Speed-Funstuff/main/scripts/flash"))()
 Fly: loadstring(game:HttpGet("https://raw.githubusercontent.com/hilfig3r/Speed-Funstuff/main/scripts/fly"))()
 Lock: loadstring(game:HttpGet("https://raw.githubusercontent.com/hilfig3r/Speed-Funstuff/main/scripts/lock"))()
+Free Fist: loadstring(game:HttpGet("https://raw.githubusercontent.com/hilfig3r/Speed-Funstuff/main/scripts/freefist"))()
+
