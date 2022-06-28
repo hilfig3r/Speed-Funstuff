@@ -5,3 +5,4 @@ Invisible Mask: loadstring(game:HttpGet("https://raw.githubusercontent.com/hilfi
 Low GFX: loadstring(game:HttpGet("https://raw.githubusercontent.com/hilfig3r/Speed-Funstuff/main/scripts/plsstayalivepc"))()
 The Flash: loadstring(game:HttpGet("https://raw.githubusercontent.com/hilfig3r/Speed-Funstuff/main/scripts/flash"))()
 Fly: loadstring(game:HttpGet("https://raw.githubusercontent.com/hilfig3r/Speed-Funstuff/main/scripts/fly"))()
+Lock: loadstring(game:HttpGet("https://raw.githubusercontent.com/hilfig3r/Speed-Funstuff/main/scripts/lock"))()
