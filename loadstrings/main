@@ -1,0 +1,5 @@
+Hide user: loadstring(game:HttpGet("https://raw.githubusercontent.com/hilfig3r/Speed-Funstuff/main/scripts/Hideuser%20%F0%9F%98%B1"))()
+Batman: loadstring(game:HttpGet("https://raw.githubusercontent.com/hilfig3r/Speed-Funstuff/main/scripts/BatmanFe-ish"))()
+Eleven: loadstring(game:HttpGet("https://raw.githubusercontent.com/hilfig3r/Speed-Funstuff/main/scripts/eleven-fe"))()
+Invisible Mask: loadstring(game:HttpGet("https://raw.githubusercontent.com/hilfig3r/Speed-Funstuff/main/scripts/maskon"))()
+Low GFX: loadstring(game:HttpGet("https://raw.githubusercontent.com/hilfig3r/Speed-Funstuff/main/scripts/plsstayalivepc"))()
